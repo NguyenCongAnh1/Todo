@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@angular/cli": "^15.0.0",
+    "@angular/compiler-cli": "^15.0.0",
+    "json-server": "^0.17.1"
+  }
+}
